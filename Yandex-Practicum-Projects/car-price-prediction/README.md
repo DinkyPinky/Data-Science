@@ -2,9 +2,9 @@
 ## Описание проекта
 Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.
 ## Навыки и инструменты
-**Теги: градиентный бустинг, регрессия**\
+**Теги: градиентный бустинг, регрессия**
 
-<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/Lightgbm?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/LightGBM?style=flat-square"/>
 ## Сферы деятельности:
 Интернет-сервисы, Интернет-магазины, Бизнес
 ## Основные пункты исследования:
