@@ -2,7 +2,7 @@
 ## Описание проекта
 В рамках хакатона "Лидеры цифровой трансформации" 2023 решалась задача №15 для предсказания поломок каждей детали системы на основе показаний датчика (температуры, вибрации)
 ## Навыки и инструменты
-**Теги: временные ряды, прогнозирование
+**Теги: временные ряды, прогнозирование**
 
 <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/><img src="https://img.shields.io/badge/PyArrow-black?style=flat-square&logo=apache&logoColor=orange"/><img src="https://img.shields.io/badge/Dask-black?style=flat-square&logo=dask&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>
 
