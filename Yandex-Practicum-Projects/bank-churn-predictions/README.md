@@ -2,7 +2,7 @@
 ## Описание проекта
 Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
 ## Навыки и инструменты
-**Теги: машинное обучение, классификация**\
+**Теги: машинное обучение, классификация**
 
 <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>
 
