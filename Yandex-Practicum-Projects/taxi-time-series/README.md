@@ -4,7 +4,7 @@
 ## Навыки и инструменты
 **Теги: Временные ряды, регрессия**
 
-<img src="https://img.shields.io/badge/statsmodels-black?style=flat-square&"/><img src="https://img.shields.io/badge/Scikitlearn-Black?style=flat-square&logo=scikitlearn&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/statsmodels-black?style=flat-square&"/><img src="https://img.shields.io/badge/Scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow"/>
 ## Сферы деятельности:
 Бизнес, Интернет-сервисы, Стартапы
 ## Основные пункты исследования:
@@ -14,4 +14,4 @@
 
 ## Выводы и результаты
    Лучшая модель на тестовой выборке показала значение RMSE = 36. Получившаяся модель хорошо справляется с предсказанием, точно устанавливая места максимумов и минимумов заказов на графике, и незначительно ошибается в самом значении
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt text](relative%20path/to/img.JPG?raw=true "Title")
