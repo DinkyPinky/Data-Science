@@ -11,3 +11,4 @@
 - Выбор диапазона года выпуска;
 - Число выбранных игр;
 - Два интерактивных графика Stacked area plot и Scatter plot.
+![Alt text](dash.JPG?raw=true "Title")
