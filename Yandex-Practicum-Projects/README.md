@@ -3,6 +3,7 @@
 
 ###  Список:
 | Название | Описание | Инструменты |
+| :--------: | :-------: | :-------: |
 |[Классификация токсичных комментариев](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/comments-classification) | Обучила модель классификации токсичности комментариев. Это позволяет автоматизировать и ускорить модерацию.|<img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/TQDM-black?style=flat-square&logo=tqdm&logoColor=orange"/>|
 |[Обработка фотографий покупателя](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/CV-customer-age-detection)|Создала модель определения возраста покупателей по фото|<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
 |[Определение стоимости автомобилей](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/car-price-prediction) |Проанализировала зависимости рыночной стоимости автомобилей.|<img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/LightGBM-black?style=flat-square"/>|
